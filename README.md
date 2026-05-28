@@ -3,6 +3,7 @@
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
+- ECDL / ICDL
 - Customer Care Certificate
 
 ## Technologies & Skills
